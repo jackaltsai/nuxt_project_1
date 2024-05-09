@@ -3,6 +3,11 @@
 1.Project Name: nuxt_project_1
 Website deploy on git pages
 
+Use Git:
+git add .
+git commit -m "xxxxx"
+git push origin main
+
 2.npm run generate
   npm run deploy
 
