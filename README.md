@@ -1,13 +1,10 @@
 # 『台灣國際反詐騙協會』官方網站
 
 1.Project Name: nuxt_project_1
+Website deploy on git pages
 
-2.  build: nuxt build
-    dev: nuxt dev
-    generate: nuxt generate
-    preview: nuxt preview
-    postinstall: nuxt prepare
-    deploy: gh-pages --dotfiles -d .output/public
+2.npm run generate
+  npm run deploy
 
 3. FB URL: https://www.facebook.com/taiwan.international.anti.scam
 4. IG URL: https://www.instagram.com/taiwan_international_anti_scam/
