@@ -1,3 +1,18 @@
+# 『台灣國際反詐騙協會』官方網站
+
+1.Project Name: nuxt_project_1
+
+2.  build: nuxt build
+    dev: nuxt dev
+    generate: nuxt generate
+    preview: nuxt preview
+    postinstall: nuxt prepare
+    deploy: gh-pages --dotfiles -d .output/public
+
+3. FB URL: https://www.facebook.com/taiwan.international.anti.scam
+4. IG URL: https://www.instagram.com/taiwan_international_anti_scam/
+
+
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
