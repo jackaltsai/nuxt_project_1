@@ -1,7 +1,7 @@
 <template>
     <section>
         <div>
-            <img src="/assets/images/FraudPhoto1.png">
+            <img src="/img/FraudPhoto1.png" alt="Discover Taiwan International Anti-Scam">
             
         </div>
     </section>
