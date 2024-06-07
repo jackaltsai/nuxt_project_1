@@ -22,14 +22,6 @@
                 </div>
             </div>
         </div>
-
-        <div class="container mx-auto my-4 bg-blue-100 px-36">
-            <div class="font-sans text-center">公司成立迄今近24年，大中華保全目前服務社區已超過611個駐點。並且屢屢獲得各級政府、警察局、分局表揚，可說是保全業最強大最龐大的團體。</div>
-        </div>
-
-        <div class="container mx-auto my-6 flex justify-center">
-            <CustomButton title="more" />
-        </div>
     </div>
 </template>
 

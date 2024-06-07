@@ -24,8 +24,8 @@
             
             <!-- Navigation Links -->
             <div class="hidden lg:flex lg:items-center lg:justify-end lg:flex-1">
-                <NuxtLink to="/about" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">關於我們</NuxtLink>
-                <NuxtLink to="/articles" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">文章分享</NuxtLink>
+                <NuxtLink to="/support" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">詐騙受害人協助</NuxtLink>
+                <NuxtLink to="/articles" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">詐騙網站揭發</NuxtLink>
                 <NuxtLink to="/contact" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">聯絡我們</NuxtLink>
             </div>
           </div>
@@ -33,8 +33,8 @@
         <!-- Mobile Menu -->
         <div v-if="isMenuOpen" class="lg:hidden" @click.away="closeMenu">
           <div class="px-2 pt-2 pb-3 space-y-1">
-            <NuxtLink to="/about" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">關於我們</NuxtLink>
-            <NuxtLink to="/articles" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">文章分享</NuxtLink>
+            <NuxtLink to="/support" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">詐騙受害人協助</NuxtLink>
+            <NuxtLink to="/articles" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">詐騙網站揭發</NuxtLink>
             <NuxtLink to="/contact" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">聯絡我們</NuxtLink>
           </div>
         </div>

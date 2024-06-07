@@ -1,13 +1,13 @@
 <template>
     <section>
         <div>
-            <img src="https://picsum.photos/1792/500">
+            <img src="/assets/images/FraudPhoto1.png">
             
         </div>
     </section>
 
-    <HorizontalLine title="Title" class="text-xl my-32"/>
-    <ColumnCards />
+    <HorizontalLine title="宗旨" class="text-xl my-8"/>
+    <ThreeColumnCards />
     
     <section>
         <div>
@@ -15,13 +15,12 @@
             
         </div>
     </section>
-    <HorizontalLine title="Profession" class="text-xl my-32"/>
-    <ColumnFourCards />
+    <HorizontalLine title="詐騙手法" class="text-xl my-32"/>
+    <ImageWithDetails />
     <section>
-        <div class="bg-yellow-500">
+        <div class="bg-yellow-500 m-20">
             <div>
-                <img src="https://placeholder.com/778x518">
-                <img src="https://placeholder.com/631x518">
+                <img src="https://placeholder.com/1792x500">
             </div>
         </div>
         

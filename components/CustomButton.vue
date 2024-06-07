@@ -1,10 +1,10 @@
 <template>
-    <button class="bg-red-500 hover:bg-red-700 text-white font-normal py-6 px-20 rounded">
-      {{ title }}
-    </button>
-  </template>
-  
-  <script>
+  <button type="button" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
+    {{ title }}
+  </button>
+</template>
+
+<script>
   export default {
     props: {
       title: {
@@ -13,9 +13,9 @@
       }
     }
   };
-  </script>
+</script>
   
-  <style scoped>
+<style scoped>
   /* Any additional styling can be added here */
-  </style>
+</style>
   
