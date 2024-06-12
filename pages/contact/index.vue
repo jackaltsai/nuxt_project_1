@@ -1,7 +1,7 @@
 <template>
     <section>
         <div>
-            <img src="https://placeholder.com/1792x500">
+            <img src="/assets/img/20.png">
             
         </div>
         <HorizontalLine title="聯絡我們將透過以下Google 表單『詐欺案件協助』" class="text-xl m-16"/>
@@ -26,7 +26,7 @@
                 </li>
               </ul>
               <div class="mt-10 flex">
-                <a href="" class="text-sm font-semibold leading-6 text-indigo-400">Email me <span aria-hidden="true">&rarr;</span>example@gmail.com</a>
+                <a href="" class="text-sm font-semibold leading-6 text-indigo-400">Email me <span aria-hidden="true">&rarr;</span>hata.s520@gmail.com</a>
               </div>
             </div>
           </div>

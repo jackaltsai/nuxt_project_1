@@ -1,7 +1,7 @@
 <template>
     <section>
         <div>
-            <img src="/img/FraudPhoto1.png" alt="Discover Taiwan International Anti-Scam">
+            <img src="/assets/img/FraudPhoto1.png" alt="Discover Taiwan International Anti-Scam">
             
         </div>
     </section>
@@ -11,7 +11,7 @@
     
     <section>
         <div>
-            <img src="https://placeholder.com/1792x500">
+            <img src="/assets/img/6.png" alt="">
             
         </div>
     </section>
@@ -20,7 +20,7 @@
     <section>
         <div class="bg-yellow-500 m-20">
             <div>
-                <img src="https://placeholder.com/1792x500">
+                <img src="/assets/img/12.png">
             </div>
         </div>
         

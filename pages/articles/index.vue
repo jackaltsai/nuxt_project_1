@@ -2,7 +2,7 @@
     <section>
         <InputURL />
         <div class="m-auto">
-            <img src="https://placeholder.com/1792x500">
+            <img src="/assets/img/23.png">
             
         </div>
     </section>
