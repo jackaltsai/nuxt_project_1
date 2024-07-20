@@ -4,7 +4,7 @@
             <img src="/assets/img/20.png">
             
         </div>
-        <HorizontalLine title="聯絡我們將透過以下Google 表單『詐欺案件協助』" class="text-xl m-16"/>
+        <HorizontalLine title="聯絡我們-『詐欺案件協助』" class="text-xs m-16"/>
         <div class="text-center">
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSdQCKihm1OhsVzEKxfvti_Ruq2h5AMOvtfz9A5Cw7HuzhsaKw/viewform">
                 <button type="button" class="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">聯絡我們</button>
