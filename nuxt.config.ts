@@ -15,6 +15,6 @@ export default defineNuxtConfig({
     buildAssetsDir: '/static/'
   },
   css: [
-    '@/assets/css/main.css',
+    '~/assets/css/main.css',
   ],
 })
