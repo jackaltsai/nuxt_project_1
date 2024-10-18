@@ -4,7 +4,7 @@
       <li class="relative">
         <div class="group aspect-h-7 aspect-w-10 block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
           <!-- <img :src="file.source" alt="" class="pointer-events-none object-cover group-hover:opacity-75" /> -->
-          <img src="/assets/img/7.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
+          <img src="https://i.imgur.com/t52qqg8.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
 
 
           <button type="button" class="absolute inset-0 focus:outline-none">
@@ -18,7 +18,7 @@
       <li class="relative">
         <div class="group aspect-h-7 aspect-w-10 block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
           <!-- <img :src="file.source" alt="" class="pointer-events-none object-cover group-hover:opacity-75" /> -->
-          <img src="/assets/img/8.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
+          <img src="https://i.imgur.com/6IUFyDM.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
 
 
           <button type="button" class="absolute inset-0 focus:outline-none">
@@ -32,7 +32,7 @@
       <li class="relative">
         <div class="group aspect-h-7 aspect-w-10 block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
           <!-- <img :src="file.source" alt="" class="pointer-events-none object-cover group-hover:opacity-75" /> -->
-          <img src="/assets/img/9.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
+          <img src="https://i.imgur.com/XteVwVm.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
 
 
           <button type="button" class="absolute inset-0 focus:outline-none">
@@ -46,7 +46,7 @@
       <li class="relative">
         <div class="group aspect-h-7 aspect-w-10 block w-full overflow-hidden rounded-lg bg-gray-100 focus-within:ring-2 focus-within:ring-indigo-500 focus-within:ring-offset-2 focus-within:ring-offset-gray-100">
           <!-- <img :src="file.source" alt="" class="pointer-events-none object-cover group-hover:opacity-75" /> -->
-          <img src="/assets/img/10.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
+          <img src="https://i.imgur.com/lThFnOb.png" alt="" class="pointer-events-none object-cover group-hover:opacity-75" />
 
 
           <button type="button" class="absolute inset-0 focus:outline-none">
@@ -61,31 +61,5 @@
   </template>
   
   <script setup>
-  // const files = [
-  //   {
-  //     title: '假投資群組詐騙',
-  //   //   size: '3.9 MB',
-  //     source:
-  //       '/img/7.png',
-  //   },
-  //   {
-  //     title: '愛情交友詐騙',
-  //   //   size: '3.9 MB',
-  //     source:
-  //       '/img/8.png',
-  //   },
-  //   {
-  //     title: '假網拍',
-  //   //   size: '3.9 MB',
-  //     source:
-  //       '/img/9.png',
-  //   },
-  //   {
-  //     title: '遊戲詐騙及假借貸',
-  //   //   size: '3.9 MB',
-  //     source:
-  //       '/img/10.png',
-  //   },
-  //   // More files...
-  // ]
+  
   </script>

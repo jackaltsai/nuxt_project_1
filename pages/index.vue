@@ -1,7 +1,7 @@
 <template>
     <section>
         <div>
-            <img src="~/assets/img/FraudPhoto1.png" alt="Discover Taiwan International Anti-Scam">
+            <img src="https://i.imgur.com/mhBLoHn.png" alt="Discover Taiwan International Anti-Scam">
             
         </div>
     </section>
@@ -11,7 +11,7 @@
     
     <section>
         <div>
-            <img src="~/assets/img/6.png" alt="">
+            <img src="https://i.imgur.com/cIGl93r.png" alt="">
             
         </div>
     </section>
@@ -20,10 +20,19 @@
     <section>
         <div class="bg-yellow-500 m-20">
             <div>
-                <img src="~/assets/img/12.png">
+                <img src="https://i.imgur.com/XmxKQKK.png">
             </div>
         </div>
         
+    </section>
+    <section id="support">
+        <Support />
+    </section>
+    <section id="expose">
+        <Expose />
+    </section>
+    <section id="contact">
+        <Contact />
     </section>
 </template>
 

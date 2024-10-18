@@ -17,25 +17,25 @@
             <div class="flex-shrink-0 flex items-center">
                 <img src="~/assets/img/ICON.png">
                 <div>
-                  <NuxtLink to="/" class="px-2 font-sans-logo font-bold text-gray-800">台灣國際反詐騙協會</NuxtLink>
+                  <NuxtLink to="http://www.taiwan-international-anti-scam.org.tw" class="px-2 font-sans-logo font-bold text-gray-800">台灣國際反詐騙協會</NuxtLink>
                   <p class="px-3 text-xs font-roboto text-zinc-400">Taiwan International Anti-Scam Association</p>
             </div>
             </div>
             
             <!-- Navigation Links -->
             <div class="hidden lg:flex lg:items-center lg:justify-end lg:flex-1">
-                <NuxtLink to="/support" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">詐騙受害人協助</NuxtLink>
-                <NuxtLink to="/articles" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">詐騙網站揭發</NuxtLink>
-                <NuxtLink to="/contact" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">聯絡我們</NuxtLink>
+                <a href="#support" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">詐騙受害人協助</a>
+                <a href="#expose" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">詐騙網站揭發</a>
+                <a href="#contact" class="font-sans text-gray-800 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium">聯絡我們</a>
             </div>
           </div>
         </div>
         <!-- Mobile Menu -->
         <div v-if="isMenuOpen" class="lg:hidden" @click.away="closeMenu">
           <div class="px-2 pt-2 pb-3 space-y-1">
-            <NuxtLink to="/support" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">詐騙受害人協助</NuxtLink>
-            <NuxtLink to="/articles" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">詐騙網站揭發</NuxtLink>
-            <NuxtLink to="/contact" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">聯絡我們</NuxtLink>
+            <a href="#support" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">詐騙受害人協助</a>
+            <a href="#expose" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">詐騙網站揭發</a>
+            <a href="#contact" class="font-sans text-gray-800 hover:bg-gray-100 block px-3 py-2 rounded-md text-base font-medium">聯絡我們</a>
           </div>
         </div>
       </nav>

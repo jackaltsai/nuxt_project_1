@@ -9,7 +9,7 @@
           
           <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
           <!-- <article v-for="post in posts" :key="post.id" class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80"> -->
-            <img src="/assets/img/13.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
+            <img src="https://i.imgur.com/4uc1Kt2.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
             <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40" />
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
   
@@ -35,7 +35,7 @@
 
           <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
           <!-- <article v-for="post in posts" :key="post.id" class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80"> -->
-            <img src="/assets/img/14.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
+            <img src="https://i.imgur.com/WaH5Si0.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
             <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40" />
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
   
@@ -61,7 +61,7 @@
 
           <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
           <!-- <article v-for="post in posts" :key="post.id" class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80"> -->
-            <img src="/assets/img/15.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
+            <img src="https://i.imgur.com/nCzsIzv.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
             <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40" />
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
   
@@ -87,7 +87,7 @@
 
           <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
           <!-- <article v-for="post in posts" :key="post.id" class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80"> -->
-            <img src="/assets/img/16.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
+            <img src="https://i.imgur.com/HZn39Z6.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
             <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40" />
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
   
@@ -113,7 +113,7 @@
 
           <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
           <!-- <article v-for="post in posts" :key="post.id" class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80"> -->
-            <img src="/assets/img/17.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
+            <img src="https://i.imgur.com/kpMs5GF.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
             <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40" />
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
   
@@ -139,7 +139,7 @@
 
           <article class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80">
           <!-- <article v-for="post in posts" :key="post.id" class="relative isolate flex flex-col justify-end overflow-hidden rounded-2xl bg-gray-900 px-8 pb-8 pt-80 sm:pt-48 lg:pt-80"> -->
-            <img src="/assets/img/18.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
+            <img src="https://i.imgur.com/yrcejGI.png" alt="" class="absolute inset-0 -z-10 h-full w-full object-cover" />
             <div class="absolute inset-0 -z-10 bg-gradient-to-t from-gray-900 via-gray-900/40" />
             <div class="absolute inset-0 -z-10 rounded-2xl ring-1 ring-inset ring-gray-900/10" />
   
@@ -168,102 +168,5 @@
 </template>
 
 <script setup>
-  // const posts = [
-  //   {
-  //     id: 1,
-  //     title: '法扶基金會',
-  //     href: 'https://www.laf.org.tw/index.php',
-  //     description:
-  //       '',
-  //     imageUrl:
-  //       '/img/13.png',
-  //     date: '',
-  //     datetime: '',
-  //     author: {
-  //       // name: 'Michael Foster',
-  //       // imageUrl:
-  //       //   'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-  //     },
-  //   },
-  //   {
-  //     id: 2,
-  //     title: '卡債自救會',
-  //     href: 'https://debtorstw.org',
-  //     description:
-  //       '',
-  //     imageUrl:
-  //       '/img/14.png',
-  //     date: '',
-  //     datetime: '',
-  //     author: {
-  //       // name: 'Michael Foster',
-  //       // imageUrl:
-  //       //   'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-  //     },
-  //   },
-  //   {
-  //     id: 3,
-  //     title: '被害人法律諮詢',
-  //     href: 'https://www.laf.org.tw/service-legal-advice-tel',
-  //     description:
-  //       '',
-  //     imageUrl:
-  //       '/img/15.png',
-  //     date: '',
-  //     datetime: '',
-  //     author: {
-  //       // name: 'Michael Foster',
-  //       // imageUrl:
-  //       //   'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-  //     },
-  //   },
-  //   {
-  //     id: 4,
-  //     title: '勵馨基金會',
-  //     href: 'https://www.goh.org.tw/',
-  //     description:
-  //       '',
-  //     imageUrl:
-  //       '/img/16.png',
-  //     date: '',
-  //     datetime: '',
-  //     author: {
-  //       // name: 'Michael Foster',
-  //       // imageUrl:
-  //       //   'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-  //     },
-  //   },
-  //   {
-  //     id: 5,
-  //     title: '婦女救援基金會',
-  //     href: 'https://www.twrf.org.tw/',
-  //     description:
-  //       '',
-  //     imageUrl:
-  //       '/img/17.png',
-  //     date: '',
-  //     datetime: '',
-  //     author: {
-  //       // name: 'Michael Foster',
-  //       // imageUrl:
-  //       //   'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-  //     },
-  //   },
-  //   {
-  //     id: 6,
-  //     title: '生命線',
-  //     href: 'http://www.life1995.org.tw/',
-  //     description:
-  //       '',
-  //     imageUrl:
-  //       '/img/18.png',
-  //     date: '',
-  //     datetime: '',
-  //     author: {
-  //       // name: 'Michael Foster',
-  //       // imageUrl:
-  //       //   'https://images.unsplash.com/photo-1519244703995-f4e0f30006d5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80',
-  //     },
-  //   },
-  // ]
+  
 </script>
