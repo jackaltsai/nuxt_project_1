@@ -1,7 +1,7 @@
 <template>
     <section>
         <div>
-            <img src="https://i.imgur.com/35wTxeN.png">
+            <img src="https://i.imgur.com/xMSmUZI.png">
             
         </div>
         <HorizontalLine title="詐欺案件協助" class="text-xl m-16"/>

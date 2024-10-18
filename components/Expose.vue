@@ -2,7 +2,7 @@
     <section>
         <!-- <InputURL /> -->
         <div class="m-auto">
-            <img src="https://i.imgur.com/Ly0IaXv.png">
+            <img src="https://imgur.com/b5l1fe0.png">
             
         </div>
     </section>
